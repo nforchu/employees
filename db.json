@@ -1,6 +1,8 @@
-[
-{"name": "Nahida", "role": "Manager"},
-{"name": "Mohammed", "role": "Business Analyst"},
-{"name": "Sussan", "role": "Developer"},
-{"name": "Albert", "role": "UX Designer"},
+{
+  "employees": [
+    {"name": "Nahida", "role": "Manager"},
+    {"name": "Mohammed", "role": "Business Analyst"},
+    {"name": "Sussan", "role": "Developer"},
+    {"name": "Albert", "role": "UX Designer"},
 ]
+}
