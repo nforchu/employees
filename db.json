@@ -1,6 +1,21 @@
-[
-    {"name": "Nahida", "role": "Manager"},
-    {"name": "Mohammed", "role": "Business Analyst"},
-    {"name": "Sussan", "role": "Developer"},
-    {"name": "Albert", "role": "UX Designer"}
-]
+{
+  "posts": [
+    {
+      "name": "Nahida",
+      "role": "Manager"
+    },
+    {
+      "name": "Mohammed",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Sussan",
+      "role": "Developer"
+    },
+    {
+      "name": "Albert",
+      "role": "UX Designer"
+    }
+  ]
+ 
+}
